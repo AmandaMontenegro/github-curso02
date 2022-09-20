@@ -7,4 +7,4 @@ Repositório para ensinar como o Git funciona.
 Aprendendo (teste)
 
 
-***Até aqui está tudo certo. Parabéns!
+Até aqui está tudo certo. Parabéns!
